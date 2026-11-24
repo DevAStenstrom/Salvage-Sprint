@@ -11,9 +11,15 @@ Current stage and anything unfinished:
 
 Three observations the rival needs, including one it might not have:
 
+3 rival observations:
+What is the current Task?
+Is the target Reachable?
+Is the line of sight blocked?
+
 Seeing a pickup across a gap proves / does not prove reachability because:
 
 One question about NPC behaviour:
+if the map or rival position changes when (or how frequent) do we update the reachable variable?
 
 ## One complete trace
 
@@ -44,11 +50,3 @@ My counterexample or experiment: prediction, observed result, and one limitation
 People I discussed or playtested with:
 Code, sources or substantive tools/AI assistance I used, and how I verified them:
 If unfinished: what works, exact reproduction steps, and the help I need:
-
-3 rival observations:
-Is the player Reachable?
-Is the line of sight not blocked?
-How close am i to the player?
-
-1 question:
-if the map or rival position changes when (or how frequent) do we update the line of sight too not lag the game too much?
