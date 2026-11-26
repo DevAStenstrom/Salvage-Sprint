@@ -4,6 +4,24 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/01_Normal.unity
+    guid: 048d821c5249090439ea8bdf9ecba411
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/02_Cargo.unity
+    guid: 03aa630500caa3a49a2873a9a27bc259
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/03_Occlusion.unity
+    guid: d7c3940cf766f6f4eba0a2358c11f702
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/04_TargetTaken.unity
+    guid: 0a645e84a343aa640873733c06534f9e
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/05_Unreachable.unity
+    guid: 0483554de6d7a204f9bfa6af9723e207
+  - enabled: 1
+    path: Assets/SalvageSprint/Generated/Scenes/06_NoSalvage.unity
+    guid: 21ddd1fab9085954e915de8ab96786ab
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
