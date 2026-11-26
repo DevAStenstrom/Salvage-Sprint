@@ -11,15 +11,9 @@ Current stage and anything unfinished:
 
 Three observations the rival needs, including one it might not have:
 
-3 rival observations:
-What is the current Task?
-Is the target Reachable?
-Is the line of sight blocked?
-
 Seeing a pickup across a gap proves / does not prove reachability because:
 
 One question about NPC behaviour:
-if the map or rival position changes when (or how frequent) do we update the reachable variable?
 
 ## One complete trace
 
